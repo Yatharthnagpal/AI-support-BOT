@@ -1,0 +1,8 @@
+Flask==2.3.3
+openai==0.28.1
+chromadb==0.4.15
+python-dotenv==1.0.0
+uuid==1.30
+
+
+
