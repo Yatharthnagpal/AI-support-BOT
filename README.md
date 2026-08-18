@@ -44,7 +44,8 @@ A sophisticated AI-powered customer support chatbot that uses OpenAI's GPT model
    - Set environment variable directly
      ```bash
      # Windows (PowerShell)
-     $Env:OPENAI_API_KEY="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"
+     $Env:OPENAI_API_KEY="sk......................................................
+     .......................................A"
     The API key shown above is only an example. Please replace it with your actual key when running the application. I cannot include a real API key in a public repository, as it would be exposed and automatically disabled.
      ```
 
